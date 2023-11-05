@@ -1,0 +1,18 @@
+# Environment Variables
+.env
+.env.*
+*.env
+!.env.gitpod
+!.env.example
+
+# Project Dependencies
+node_modules
+
+# macOS
+.DS_Store
+
+# Intellij
+.idea
+
+# Turborepo
+.turbo
